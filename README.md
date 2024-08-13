@@ -1,10 +1,3 @@
-I'll go ahead and review the provided notebook to create a README for your diabetes prediction model using SVM. Let me analyze the contents.
-
-Based on the initial review of your notebook, I'll draft a README that highlights the key aspects of your diabetes prediction model using SVM. 
-
-Here’s the proposed README:
-
----
 
 # Diabetes Prediction Model
 
